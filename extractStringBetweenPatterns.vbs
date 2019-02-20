@@ -1,3 +1,6 @@
+' Author   : Vishal B
+' Date     : 20/02/2019
+' Change   : Methods extractStringBetweenPatterns and testMethodExtractStringBetweenPatterns created.
 Function extractStringBetweenPatterns(ByVal inputString As String, startPattern As String, endPattern As String) As String
     Dim startIndex, endStartIndex As Long
     
